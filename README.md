@@ -5,6 +5,7 @@
 * Most of my time goes into building bridges which connect gobs of data to the real world using neural networks. :bridge_at_night:
 * Sometimes those bridges are as overly specific as tracking and terminating animals in Minecraft. :hocho: :chicken: .
 * I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
+* Pronouns: He/him/his
 
 As of late, I've been working with [INCF](https://www.incf.org/), where I'm training various types of deep learning models for [DevoWorm](https://github.com/devoworm). The models range from  segmentation models, LSTMs to the good old CNNs which are used to extract metadata from microscopic images of the C. elegans worm. 
 
