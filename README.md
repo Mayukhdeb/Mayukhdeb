@@ -6,4 +6,6 @@
 * Sometimes those bridges are as overly specific as tracking and terminating animals in Minecraft. :hocho: :chicken: .
 * I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
 
-As of late, I've been working with [INCF](https://www.incf.org/), where I'm training various types of deep learning models for [DevoWorm](https://github.com/devoworm). The models range from the good stuff like segmentation models, LSTMs to the good old CNNs which are used to extract metadata from microscopic images of the C. elegans worm. 
+As of late, I've been working with [INCF](https://www.incf.org/), where I'm training various types of deep learning models for [DevoWorm](https://github.com/devoworm). The models range from  segmentation models, LSTMs to the good old CNNs which are used to extract metadata from microscopic images of the C. elegans worm. 
+
+[Bunch](https://github.com/devoworm/GSoC-2020/blob/master/Pre-trained%20Models%20(DevLearning)/README.md) of stuff I've been working on lately.
