@@ -4,6 +4,7 @@
 ![](https://img.shields.io/twitter/url?color=Blue&label=Blog&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fblog%2F)
 * Most of my time goes into building bridges which connect gobs of data to the real world using neural networks. :bridge_at_night:
 * Sometimes those bridges are as overly specific as tracking and terminating animals in Minecraft. :hocho: :chicken: .
+* Currently messing around with custom segmentation models, adversarial attacks and ensemble models
 * I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
 * Pronouns: He/him/his
 
