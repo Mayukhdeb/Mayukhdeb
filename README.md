@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/twitter/url?color=Black&label=Blog&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fblog%2F)](https://mayukhdeb.github.io/blog/)
 
 
-[![Mayukh's github stats](https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Mayukh's github stats](https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 * Most of my time goes into building bridges which connect gobs of data to the real world using neural networks. :bridge_at_night:
