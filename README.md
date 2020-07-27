@@ -12,11 +12,19 @@
 
 
 
-<img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "50%">
+<img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "50%" align = "center">
 
 
 * Most of my time goes into building bridges which connect gobs of data to the real world using neural networks. :bridge_at_night:
 * Sometimes those bridges are as overly specific as tracking and terminating animals in Minecraft. :hocho: :chicken: .
+
+<p align="center">
+<img src="deep_chicken_terminator.gif" width = "25%"/>
+</p>
+
+
+
+
 * Currently messing around with GANs, custom segmentation models, adversarial attacks and ensemble models
 * I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
 * Pronouns: He/him/his
