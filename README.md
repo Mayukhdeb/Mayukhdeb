@@ -12,9 +12,7 @@
 
 
 
-
-
-![Mayukh's github stats](https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "50%">
 
 
 * Most of my time goes into building bridges which connect gobs of data to the real world using neural networks. :bridge_at_night:
