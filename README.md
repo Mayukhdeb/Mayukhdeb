@@ -19,7 +19,7 @@
 * Sometimes those bridges are as overly specific as tracking and terminating animals in Minecraft. :hocho: :chicken: .
 
 <p align="center">
-<img src="deep_chicken_terminator.gif" width = "25%"/>
+<img src="https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/deep_chicken_terminator.gif" width = "25%"/>
 </p>
 
 
