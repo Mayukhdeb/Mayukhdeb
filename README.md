@@ -21,6 +21,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/deep_chicken_terminator.gif" width = "25%"/>
+  <img src = "https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/investigate_worm.gif" width = "25%">
 </p>
 
 
