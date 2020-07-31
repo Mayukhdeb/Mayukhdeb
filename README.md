@@ -16,7 +16,8 @@
 
 
 * Most of my time goes into building bridges which connect gobs of data to the real world using neural networks. :bridge_at_night:
-* Sometimes those bridges are as overly specific as tracking and terminating animals in Minecraft. :hocho: :chicken: .
+* Sometimes those bridges are as overly specific as tracking and terminating animals in Minecraft. :hocho: :chicken:
+* I've also been building deep learning models which look at worms and give inferences.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/deep_chicken_terminator.gif" width = "25%"/>
