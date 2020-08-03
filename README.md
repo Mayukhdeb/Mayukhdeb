@@ -18,7 +18,7 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 
 I mess around with neural networks to make them do things like:
 * Tracking and terminating animals in Minecraft :hocho: :chicken:
-* Using adversarial attacks to break the tracking algorithm in the point just above this one
+* Using adversarial attacks to break the animal tracking algorithm I made
 * Making racecars stay on the road with ensemble models
 * Gain inferences from videos of worm embryos
 
