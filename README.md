@@ -10,25 +10,22 @@
 <code><img height="20" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/288277?s=200&v=4"></code>
 
+I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
+* [GSoC 2020](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
+* Creator of [Devolearn](https://github.com/DevoLearn/devolearn) - a Python library to accelerate data driven research on embryos with Pre-Trained deep learning models
+* Currently working with GANs, custom segmentation models, adversarial attacks and ensemble models
+* Pronouns: He/him/his
 
-* Most of my time goes into building bridges which connect gobs of data to the real world using neural networks. :bridge_at_night:
-* Sometimes those bridges are as overly specific as tracking and terminating animals in Minecraft. :hocho: :chicken:
-* I've also been building deep learning models which look at worms and give inferences.
+I mess around with neural networks to make them do things like:
+* Tracking and terminating animals in Minecraft :hocho: :chicken:
+* Using adversarial attacks to break the tracking algorithm in the point just above this one
+* Making racecars stay on the road with ensemble models
+* Gain inferences from videos of worm embryos
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/deep_chicken_terminator.gif" width = "25%"/>
   <img src = "https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/investigate_worm.gif" width = "18%">
 </p>
-
-
-* Currently messing around with GANs, custom segmentation models, adversarial attacks and ensemble models
-* I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
-* Pronouns: He/him/his
-
-As of late, I've been working with [INCF](https://www.incf.org/), where I'm training various types of deep learning models for [DevoWorm](https://github.com/devoworm). The models range from  GANs, segmentation models, LSTMs to the good old CNNs which are being used to extract metadata from microscopic images/videos of the C. elegans worm. 
-
-[Bunch](https://github.com/devoworm/GSoC-2020/blob/master/Pre-trained%20Models%20(DevLearning)/README.md) of stuff I've been working on lately.
-
 
 <img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "60%" align = "center">
 
