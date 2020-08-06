@@ -12,7 +12,7 @@
 
 I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
 * [GSoC 2020](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
-* Creator of [Devolearn](https://github.com/DevoLearn/devolearn) - a Python library to accelerate data driven research on embryos with Pre-Trained deep learning models
+* Creator of [**Devolearn**](https://github.com/DevoLearn/devolearn) - a Python library to accelerate data driven research on embryos with Pre-Trained deep learning models
 * Currently working with GANs, custom segmentation models, adversarial attacks and ensemble models
 * Pronouns: He/him/his
 
