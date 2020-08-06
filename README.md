@@ -29,3 +29,9 @@ I mess around with neural networks to make them do things like:
 
 <img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "60%" align = "center">
 
+<!---
+<a href="https://github.com/mayukhdeb/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhdeb" />
+</a>
+--->
+
