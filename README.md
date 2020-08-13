@@ -27,9 +27,8 @@ I mess around with neural networks to make them do things like:
   <img src = "https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/investigate_worm.gif" width = "18%">
 </p>
 
-<img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "60%" align = "center">
-
 <!---
+<img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "60%" align = "center">
 <a href="https://github.com/mayukhdeb/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhdeb" />
 </a>
