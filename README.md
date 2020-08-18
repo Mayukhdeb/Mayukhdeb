@@ -21,6 +21,7 @@ I mess around with neural networks to make them do things like:
 * Using adversarial attacks to break the animal tracking algorithm I made
 * Making racecars stay on the road with ensemble models
 * Gain inferences from videos of worm embryos
+* Visualize the training of neural networks written from scratch on numpy
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/deep_chicken_terminator.gif" width = "25%"/>
