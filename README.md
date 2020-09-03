@@ -13,6 +13,7 @@
 I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
 * [GSoC 2020](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
 * Creator of [**Devolearn**](https://github.com/DevoLearn/devolearn) - a Python library to accelerate data driven research on embryos with Pre-Trained deep learning models
+* I also made another small library called [**torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) which you can use to create deep-dreams with PyTorch models.  
 * Currently working with GANs, custom segmentation models, adversarial attacks and ensemble models
 * Pronouns: He/him/his
 
@@ -25,7 +26,6 @@ I mess around with neural networks to make them do things like:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/deep_chicken_terminator.gif" width = "25%"/>
-  <img src = "https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/investigate_worm.gif" width = "18%">
 </p>
 
 <img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "60%" align = "center">
