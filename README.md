@@ -2,6 +2,7 @@
 
 [![twitter](https://img.shields.io/twitter/url?label=Twitter%20%40mayukh091&style=social&url=https%3A%2F%2Ftwitter.com%2Fmayukh091)](https://twitter.com/mayukh091)
 [![blog](https://img.shields.io/twitter/url?color=Black&label=Blog&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fblog%2F)](https://mayukhdeb.github.io/blog/)
+[![CV](https://img.shields.io/twitter/url?color=blue&label=CV&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fcv.pdf)](https://mayukhdeb.github.io/cv.pdf)
 
 
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4"></code>
