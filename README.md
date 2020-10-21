@@ -15,19 +15,17 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 * [GSoC 2020](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
 * Creator of [**Devolearn**](https://github.com/DevoLearn/devolearn) - a Python library to accelerate data driven research on embryos with Pre-Trained deep learning models
 * I also made another small library called [**torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) which you can use to create deep-dreams with PyTorch models.  
-* Currently working with GANs, custom segmentation models, adversarial attacks and ensemble models
 * Pronouns: He/him/his
 
-I mess around with neural networks to make them do things like:
-* Tracking and terminating animals in Minecraft :hocho: :chicken:
-* Using adversarial attacks to break the animal tracking algorithm I made
-* Making racecars stay on the road with ensemble models
-* Gain inferences from videos of worm embryos
-* Visualize the training of neural networks written from scratch on numpy
+Currently:
+* Figuring out how to generate deep-fakes from scratch.
+* Taking part in kagggle competitions. 
 
+<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/deep_chicken_terminator.gif" width = "25%"/>
 </p>
+-->
 
 <img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "60%" align = "center">
 <!---
