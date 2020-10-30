@@ -18,8 +18,8 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 * Pronouns: He/him/his
 
 Currently:
-* Figuring out how to generate deep-fakes from scratch.
-* Taking part in kagggle competitions. 
+* Figuring out how to generate deep-fakes from scratch
+* Taking part in kaggle competitions 
 
 <!--
 <p align="center">
