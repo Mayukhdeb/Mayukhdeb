@@ -12,13 +12,14 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/288277?s=200&v=4"></code>
 
 I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
-* [GSoC 2020](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
-* Creator of [**Devolearn**](https://github.com/DevoLearn/devolearn) - a Python library to accelerate data driven research on embryos with Pre-Trained deep learning models
-* I also made another small library called [**torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) which you can use to create deep-dreams with PyTorch models.  
+* [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
+* Creator of:
+  * [**Devolearn**](https://github.com/DevoLearn/devolearn) -  to accelerate data driven research on embryos with deep learning models
+  * [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - to easily generate deep-dreams on videos/images with PyTorch
 * Pronouns: He/him/his
 
 Currently:
-* Figuring out how to generate deep-fakes from scratch
+* [Generating deep-fakes](https://github.com/Mayukhdeb/deepfakes) from scratch and [making notes](https://github.com/Mayukhdeb/deepfakes/blob/master/README.md)
 * Taking part in kaggle competitions 
 
 <!--
