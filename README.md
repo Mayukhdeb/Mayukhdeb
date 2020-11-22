@@ -14,8 +14,8 @@
 I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
 * [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
 * Creator of:
-  * [**Devolearn**](https://github.com/DevoLearn/devolearn) -  to accelerate data driven research on embryos with deep learning models
-  * [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - to easily generate deep-dreams on videos/images with PyTorch
+  * [**Devolearn**](https://github.com/DevoLearn/devolearn) -  for data driven research on embryos with deep learning models
+  * [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - to accelerate research in neural network interpretability with feature visualization
 * Pronouns: He/him/his
 
 Currently:
