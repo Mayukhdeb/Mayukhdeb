@@ -14,6 +14,16 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/288277?s=200&v=4"></code>
 -->
 I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
+
+<code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_115.jpg?raw=true" height="100"></code>
+<code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_74.jpg?raw=true" height="100"></code>
+<code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_123.jpg?raw=true" height="100"></code>
+<code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_120.jpg?raw=true" height="100"></code>
+<code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_16.jpg?raw=true" height="100"></code>
+<code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_4.jpg?raw=true" height="100"></code>
+
+
+
 * [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
 * Creator of:
   * [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
