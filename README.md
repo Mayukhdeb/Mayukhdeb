@@ -20,7 +20,7 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 <code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_123.jpg?raw=true" height="100"></code>
 <code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_120.jpg?raw=true" height="100"></code>
 <code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_16.jpg?raw=true" height="100"></code>
-<code><img src = "https://github.com/Mayukhdeb/torch-dreams-notebooks/blob/main/images/raw_output/inceptionv3_channels/inceptionv3.Mixed_6c.branch7x7_1.conv_channel_4.jpg?raw=true" height="100"></code>
+
 
 
 
