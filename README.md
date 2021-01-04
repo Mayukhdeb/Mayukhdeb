@@ -27,12 +27,11 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 
 * [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
 * Creator of:
-  * [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
   * [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art.
+  * [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
 
 Currently:
 * Trying to expand torch-dreams to facilitate research in neural network interpretability. Something like [lucid](https://github.com/tensorflow/lucid) but on PyTorch
-* [Generating deep-fakes](https://github.com/Mayukhdeb/deepfakes) from scratch and [making notes](https://github.com/Mayukhdeb/deepfakes/blob/master/README.md)
 
 <!--
 <p align="center">
@@ -40,7 +39,7 @@ Currently:
 </p>
 -->
 
-<img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=default" width = "60%" align = "center">
+<img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=dark" width = "60%" align = "center">
 <!---
 <a href="https://github.com/mayukhdeb/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhdeb" />
