@@ -31,6 +31,7 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
   * [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
 
 Currently:
+* Doing an internship at [RunwayML](https://runwayml.com/)
 * Trying to expand torch-dreams to facilitate research in neural network interpretability. Something like [lucid](https://github.com/tensorflow/lucid) but on PyTorch
 
 <!--
