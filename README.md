@@ -32,7 +32,7 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 * Also been an intern at [RunwayML](https://runwayml.com/)
 
 Currently:
-* Trying to expand torch-dreams to facilitate research in neural network interpretability. Something like [lucid](https://github.com/tensorflow/lucid) but on PyTorch
+* Trying to improve torch-dreams to facilitate research in neural network interpretability. The goal is to make soomething like [lucid](https://github.com/tensorflow/lucid) but on steroids
 
 <!--
 <p align="center">
