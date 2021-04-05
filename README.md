@@ -41,6 +41,11 @@ Currently:
 -->
 
 <img src= "https://github-readme-stats.vercel.app/api?username=mayukhdeb&show_icons=true&theme=dark" width = "60%" align = "center">
+
+In case you want to get in touch, here's where you can find me: 
+* [Telegram](https://t.me/mayukh09)
+* [Or drop an email](mailto:mayukhmainak2000@gmail.com)
+
 <!---
 <a href="https://github.com/mayukhdeb/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhdeb" />
