@@ -24,14 +24,15 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 -->
 
 
-
+:zap: Stuff I've done:
 * [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
-* Creator of:
+* * Intern at [RunwayML](https://runwayml.com/)
+
+:green_book: Creator of:
   * [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art.
   * [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
-* Also been an intern at [RunwayML](https://runwayml.com/)
 
-Currently:
+:mag: Currently:
 * Trying to improve torch-dreams to facilitate research in neural network interpretability. The goal is to make something like [lucid](https://github.com/tensorflow/lucid) but on steroids
 
 <!--
