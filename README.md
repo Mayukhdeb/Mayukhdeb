@@ -36,7 +36,7 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 
 In case you want to get in touch, here's where you can find me: 
 * [Telegram](https://t.me/mayukh09)
-* [Or drop an email](mailto:mayukhmainak2000@gmail.com)
+* Or drop an email: [mayukhmainak2000@gmail.com](mailto:mayukhmainak2000@gmail.com)
 
 <!---
 <a href="https://github.com/mayukhdeb/">
