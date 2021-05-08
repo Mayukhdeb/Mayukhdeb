@@ -25,6 +25,7 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 
 :mag: Currently:
 * Trying to improve torch-dreams to facilitate research in neural network interpretability. The goal is to make something like [lucid](https://github.com/tensorflow/lucid) but on steroids
+* Working on a paper with some friends over on [distill slack](https://distillpub.slack.com)
 
 <!--
 <p align="center">
