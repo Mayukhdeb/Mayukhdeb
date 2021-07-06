@@ -24,7 +24,7 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
   * [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
 
 :mag: Currently:
-* Building [eden](https://github.com/abraham-ai/eden), a sandbox for the [Abraham project](https://abraham.ai/) to test pipelines for creating generative art with machine learning.
+* Building [eden](https://github.com/abraham-ai/eden), a sandbox for the [Abraham project](https://abraham.ai/) for creating generative art with machine learning.
 * Working on a paper with some friends over on [distill slack](https://distillpub.slack.com)
 
 <!--
