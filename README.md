@@ -15,6 +15,12 @@
 -->
 I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with my friends. :space_invader:
 
+:mag: Currently:
+* Working on making [Transformers](https://arxiv.org/abs/1706.03762) more interpretable at [Aleph-Alpha](https://aleph-alpha.de/)
+* Building [eden](https://github.com/abraham-ai/eden), a sandbox for the [Abraham project](https://abraham.ai/) for creating generative art with machine learning.
+* Working on a paper with some friends over on [distill slack](https://distillpub.slack.com)
+
+
 :zap: Stuff I've done:
 * [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
 * Intern at [RunwayML](https://runwayml.com/)
@@ -22,11 +28,6 @@ I spend more time with PyTorch, NumPy, SciPy, Pandas and OpenCV than I do with m
 :green_book: Creator of:
   * [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art.
   * [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
-
-:mag: Currently:
-* Trying to understand how transformers work at [Aleph-Alpha](https://aleph-alpha.de/)
-* Building [eden](https://github.com/abraham-ai/eden), a sandbox for the [Abraham project](https://abraham.ai/) for creating generative art with machine learning.
-* Working on a paper with some friends over on [distill slack](https://distillpub.slack.com)
 
 <!--
 <p align="center">
