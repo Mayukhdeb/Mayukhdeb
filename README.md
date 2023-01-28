@@ -13,10 +13,11 @@
 -->
 I spend more time with tensors than I do with my friends. :space_invader:
 
-* Working on reverse engineering multimodal [Transformers](https://arxiv.org/abs/1706.03762) at [Aleph-Alpha](https://aleph-alpha.com/)
-* Building [eden](https://github.com/abraham-ai/eden), a sandbox for the [Abraham project](https://abraham.ai/) for creating generative art with machine learning.
+* Reverse engineering multimodal [Transformers](https://arxiv.org/abs/1706.03762) at [Aleph-Alpha](https://aleph-alpha.com/)
 
-📜 Recent Paper: [**DORA**](https://arxiv.org/abs/2206.04530), a method to explore outlier representations in Deep Neural Networks
+📜 Recent work: 
+- [**AtMan**](https://arxiv.org/abs/2301.08110) - Understanding Transformer Predictions Through Memory Efficient Attention Manipulation
+- [**DORA**](https://arxiv.org/abs/2206.04530) - method to explore outlier representations in Deep Neural Networks
 
 :zap: Stuff I've done:
 * [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
