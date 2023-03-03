@@ -13,19 +13,17 @@
 -->
 I spend more time with tensors than I do with my friends. :space_invader:
 
-* Reverse engineering multimodal [Transformers](https://arxiv.org/abs/1706.03762) at [Aleph-Alpha](https://aleph-alpha.com/)
+* Reverse engineering multimodal LLMs at [Aleph-Alpha](https://aleph-alpha.com/)
 
 📜 Recent work: 
 - [**AtMan**](https://arxiv.org/abs/2301.08110) - Understanding Transformer Predictions Through Memory Efficient Attention Manipulation
 - [**DORA**](https://arxiv.org/abs/2206.04530) - method to explore outlier representations in Deep Neural Networks
 
-:zap: Stuff I've done:
+:zap: Other stuff:
 * [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
 * Intern at [RunwayML](https://runwayml.com/)
-
-:green_book: Creator of:
-  * [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art.
-  * [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
+* [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art.
+* [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
 
 <!--
 <p align="center">
