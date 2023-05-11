@@ -13,7 +13,7 @@
 -->
 I spend more time with tensors than I do with my friends. :space_invader:
 
-* Reverse engineering multimodal LLMs at [Aleph-Alpha](https://aleph-alpha.com/)
+Used to reverse engineer multimodal LLMs at [Aleph-Alpha](https://aleph-alpha.com/).
 
 📜 Recent work: 
 - [**AtMan**](https://arxiv.org/abs/2301.08110) - Understanding Transformer Predictions Through Memory Efficient Attention Manipulation
