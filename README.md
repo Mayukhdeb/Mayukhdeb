@@ -31,6 +31,6 @@ Used to reverse engineer multimodal LLMs at [Aleph-Alpha](https://aleph-alpha.co
 </p>
 -->
 
-In case you want to get in touch, here's where you can find me: 
-* [Telegram](https://t.me/mayukh09)
+Contact: 
+* [Telegram](https://t.me/mayukhdeb)
 * Or drop an email: [mayukhmainak2000@gmail.com](mailto:mayukhmainak2000@gmail.com)
