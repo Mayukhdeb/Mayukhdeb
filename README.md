@@ -1,8 +1,11 @@
 ## Hi, I'm Mayukh
 
+<!--
+
 [![twitter](https://img.shields.io/twitter/url?label=Twitter%20%40mayukh091&style=social&url=https%3A%2F%2Ftwitter.com%2Fmayukh091)](https://twitter.com/mayukh091)
 [![blog](https://img.shields.io/twitter/url?color=Black&label=Blog&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fblog%2F)](https://mayukhdeb.github.io/blog/)
 [![notes](https://img.shields.io/twitter/url?color=Black&label=Notes&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fnotes%2F)](https://mayukhdeb.github.io/notes/)
+-->
 
 <!--
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4"></code>
@@ -11,19 +14,14 @@
 <code><img height="20" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/288277?s=200&v=4"></code>
 -->
-I spend more time with tensors than I do with my friends. :space_invader:
 
-Used to reverse engineer multimodal LLMs at [Aleph-Alpha](https://aleph-alpha.com/).
+Past -> [runwayml](https://runwayml.com), [Aleph-Alpha](https://aleph-alpha.com/)
 
-📜 Recent work: 
-- [**AtMan**](https://arxiv.org/abs/2301.08110) - Understanding Transformer Predictions Through Memory Efficient Attention Manipulation
-- [**DORA**](https://arxiv.org/abs/2206.04530) - method to explore outlier representations in Deep Neural Networks
+Present -> Brains and computers @ [murtylab](https://www.murtylab.com)
 
-:zap: Other stuff:
-* [**Google Summer of Code 2020**](https://github.com/devoworm/GSoC-2020/tree/master/Pre-trained%20Models%20(DevLearning)) @ [INCF](https://incf.org/)
-* Intern at [RunwayML](https://runwayml.com/)
-* [**Torch-dreams**](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art.
-* [**Devolearn**](https://github.com/DevoLearn/devolearn) - Data driven research on embryos with deep learning models.
+Science: 
+- [**AtMan**](https://arxiv.org/abs/2301.08110) - Memory efficient explainability method for anything with attention
+- [**DORA**](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier representations in vision models
 
 <!--
 <p align="center">
