@@ -20,8 +20,8 @@ Past -> [runwayml](https://runwayml.com), [Aleph-Alpha](https://aleph-alpha.com/
 Present -> Brains and computers @ [murtylab](https://www.murtylab.com)
 
 Science: 
-- [**AtMan**](https://arxiv.org/abs/2301.08110) - Memory efficient explainability method for anything with attention
-- [**DORA**](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier representations in vision models
+- [AtMan](https://arxiv.org/abs/2301.08110) - Memory efficient explainability method for anything with attention
+- [DORA](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier representations in vision models
 
 <!--
 <p align="center">
