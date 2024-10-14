@@ -19,7 +19,7 @@ Past -> [runwayml](https://runwayml.com), [Aleph-Alpha](https://aleph-alpha.com/
 
 Present -> Brains and computers @ [murtylab](https://www.murtylab.com)
 
-Science: 
+Science 
 - [AtMan](https://arxiv.org/abs/2301.08110) - Memory efficient explainability method for anything with attention
 - [DORA](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier representations in vision models
 
@@ -29,6 +29,4 @@ Science:
 </p>
 -->
 
-Contact: 
-* [Telegram](https://t.me/mayukhdeb)
-* Or drop an email: [mayukhmainak2000@gmail.com](mailto:mayukhmainak2000@gmail.com)
+Contact: [Telegram](https://t.me/mayukhdeb) or email: [mayukhmainak2000@gmail.com](mailto:mayukhmainak2000@gmail.com)
