@@ -21,7 +21,7 @@ Present -> Brains and computers @ [murtylab](https://www.murtylab.com)
 
 Science 
 - [AtMan](https://arxiv.org/abs/2301.08110) - Memory efficient explainability method for anything with attention
-- [DORA](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier representations in vision models
+- [DORA](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier neurons in vision models
 
 <!--
 <p align="center">
