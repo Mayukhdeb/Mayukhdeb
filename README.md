@@ -20,9 +20,9 @@ Past -> [runwayml](https://runwayml.com), [Aleph-Alpha](https://aleph-alpha.com/
 Present -> Brains and computers @ [murtylab](https://www.murtylab.com)
 
 Science 
-- [TopoNets](https://toponets.github.io) - Brain-like topographic structure in vision & language models
-- [AtMan](https://arxiv.org/abs/2301.08110) - Memory efficient explainability method for anything with attention
-- [DORA](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier neurons in vision models
+- [TopoNets](https://toponets.github.io) - Brain-like topographic structure in vision & language models (ICLR 2025 Spotlight)
+- [AtMan](https://arxiv.org/abs/2301.08110) - Memory efficient explainability method for anything with attention (NeurIPS 2023 + featured in [Scientific American](https://www.scientificamerican.com/article/new-tool-reveals-how-ai-makes-decisions/))
+- [DORA](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier neurons in vision models (TMLR, ICLR trustworthy ML workshop)
 
 <!--
 <p align="center">
