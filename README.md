@@ -15,9 +15,9 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/288277?s=200&v=4"></code>
 -->
 
-Past -> [runwayml](https://runwayml.com), [Aleph-Alpha](https://aleph-alpha.com/)
+Brains and computers @ [murtylab](https://www.murtylab.com)
 
-Present -> Brains and computers @ [murtylab](https://www.murtylab.com)
+Past -> [runwayml](https://runwayml.com), [Aleph-Alpha](https://aleph-alpha.com/)
 
 Science 
 - [TopoNets](https://toponets.github.io) - Brain-like topographic structure in vision & language models (ICLR 2025 Spotlight)
