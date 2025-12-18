@@ -24,6 +24,10 @@ Research:
 - [AtMan](https://arxiv.org/abs/2301.08110) - Memory efficient explainability method for transformers (NeurIPS 2023 + featured in [Scientific American](https://www.scientificamerican.com/article/new-tool-reveals-how-ai-makes-decisions/), [TED-AI Vienna](https://www.ted.com/talks/jonas_andrulis_a_future_where_ai_speaks_every_language))
 - [DORA](https://arxiv.org/abs/2206.04530) - Cluster and explore outlier neurons in vision models (TMLR, ICLR trustworthy ML workshop)
 
+Other side projects:
+- [MOSAIC](https://github.com/murtylab/mosaic-dataset/tree/master) - one of the largest (and easiest to load) fMRI datasets out there right now for modeling human vision
+
+
 <!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mayukhdeb/Mayukhdeb/master/deep_chicken_terminator.gif" width = "25%"/>
