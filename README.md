@@ -15,7 +15,7 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/288277?s=200&v=4"></code>
 -->
 
-Brains and computers @ [murtylab](https://www.murtylab.com)
+Brains and computers @ [murtylab](https://www.murtylab.com) + [google deepmind](https://deepmind.google/)
 
 Past -> [runwayml](https://runwayml.com), [Aleph-Alpha](https://aleph-alpha.com/)
 
