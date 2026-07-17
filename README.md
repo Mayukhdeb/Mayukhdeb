@@ -34,4 +34,4 @@ Other side projects:
 </p>
 -->
 
-Contact: [Telegram](https://t.me/mayukhdeb) or email: [mayukhmainak2000@gmail.com](mailto:mayukhmainak2000@gmail.com)
+email: [mayukhmainak2000@gmail.com](mailto:mayukhmainak2000@gmail.com)
